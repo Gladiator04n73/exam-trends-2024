@@ -4,6 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+from IPython.display import display
 from scipy.stats import shapiro
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
